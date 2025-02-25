@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "ts-node": "^10.9.2"
+  }
+}
